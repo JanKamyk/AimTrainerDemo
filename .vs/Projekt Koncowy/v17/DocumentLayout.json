@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jkkam\\OneDrive\\Desktop\\Studia\\Unity\\Projekt Koncowy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1F1FB9-6501-0D3A-6665-B034B437B156}|Assembly-CSharp.csproj|c:\\users\\jkkam\\onedrive\\desktop\\studia\\unity\\projekt koncowy\\assets\\scripts\\tf_mini_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1F1FB9-6501-0D3A-6665-B034B437B156}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tf_mini_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1F1FB9-6501-0D3A-6665-B034B437B156}|Assembly-CSharp.csproj|C:\\Users\\jkkam\\OneDrive\\Desktop\\Studia\\Unity\\Projekt Koncowy\\assets\\scripts\\tf_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1F1FB9-6501-0D3A-6665-B034B437B156}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tf_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TF_Mini_Control.cs",
+              "DocumentMoniker": "C:\\Users\\jkkam\\OneDrive\\Desktop\\Studia\\Unity\\Projekt Koncowy\\Assets\\Scripts\\TF_Mini_Control.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TF_Mini_Control.cs",
+              "ToolTip": "C:\\Users\\jkkam\\OneDrive\\Desktop\\Studia\\Unity\\Projekt Koncowy\\Assets\\Scripts\\TF_Mini_Control.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TF_Mini_Control.cs",
+              "ViewState": "AgIAAMwBAAAAAAAAAAAAAPMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:25:26.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TF_Control.cs",
+              "DocumentMoniker": "C:\\Users\\jkkam\\OneDrive\\Desktop\\Studia\\Unity\\Projekt Koncowy\\Assets\\Scripts\\TF_Control.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TF_Control.cs",
+              "ToolTip": "C:\\Users\\jkkam\\OneDrive\\Desktop\\Studia\\Unity\\Projekt Koncowy\\Assets\\Scripts\\TF_Control.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TF_Control.cs",
+              "ViewState": "AgIAANUBAAAAAAAAAAAzwN8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:36:04.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
